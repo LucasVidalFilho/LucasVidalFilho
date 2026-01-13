@@ -45,5 +45,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-vidal-filho-5a6aa51b4/)](https://www.linkedin.com/in/lucas-vidal-filho-5a6aa51b4/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasvidalfilho/)](https://www.linkedin.com/in/lucasvidalfilho/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasvidalfilho@gmail.com)
