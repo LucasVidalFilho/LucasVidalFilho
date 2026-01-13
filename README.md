@@ -7,7 +7,7 @@
 
 ## 📈 Objetivos
 
-- Evoluir como desenvolvedor full stack e em automação  
+- Evoluir como desenvolvedor full stack com foco em automação e manipulação de dados
 - Criar projetos sólidos para aplicações reais  
 - Atuar em projetos freelancers e profissionais  
 
