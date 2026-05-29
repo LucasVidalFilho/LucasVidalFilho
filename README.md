@@ -1,9 +1,10 @@
 
 ## 🚀Sobre mim
 
-- 🤔 Desenvolvedor com interesse em programação, automação e criação de soluções eficientes.
-- 🎓Formação técnica pelo **COTIL (Colégio Técnico de Limeira – UNICAMP) no curso de Desenvolvimento de Sistemas**.
-- 🌱 Aprendendo mais sobre **Python automação de tarefas, scripts e manipulação de dados**.
+* 🤔 Desenvolvedor com interesse em programação, automação e criação de soluções eficientes.
+ * 📚 Atualmente graduando em **Estatística na UNICAMP**, com interesse em análise de dados, modelagem estatística e tecnologia.
+* 🎓 Formação técnica pelo **COTIL (Colégio Técnico de Limeira – UNICAMP)** no curso de **Desenvolvimento de Sistemas**.
+* 🌱 Aprendendo mais sobre **Python, automação de tarefas, scripts, manipulação e análise de dados**.
 
 ## 📈 Objetivos
 
